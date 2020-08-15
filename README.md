@@ -7,4 +7,4 @@ I have reached a point in my study where I thought,
 "I should probably get on GitHub and create a
 repository for this code."
 So here I am, learning how to make and commit changes
-to a branch.
+to a branch, opening a pull request, and merging branches.
